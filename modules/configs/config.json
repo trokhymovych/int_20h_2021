@@ -1,0 +1,6 @@
+{
+  "model_name": "SuperModel",
+  "logs_path": "logs/logs_bert.log",
+  "model_path": "modules/models/model.h5",
+  "api_version": "0.1"
+}
